@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.content {
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    height: 100vh;    
+}
+.title { 
+  font-weight: bold;
+  color: #ffffff;
+}
+.text { 
+  margin-top: 15px;
+  font-size: 25px;
+  color: #ffffff;
+  text-align: center; 
+  font-family: 'Poppins', sans-serif;
+  font-weight: lighter;
+}
+.content span {
+    color: #ff21c3;
+    font-size: 130px;
+}

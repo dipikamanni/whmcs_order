@@ -1,0 +1,8 @@
+[13-Feb-2021 05:49:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function printError() in /home/kuroitp1/public_html/hostworld/api/endpoints/GetPromotions.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/kuroitp1/public_html/hostworld/api/endpoints/GetPromotions.php on line 15
+[13-Feb-2021 05:50:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function printError() in /home/kuroitp1/public_html/hostworld/api/endpoints/GetPromotions.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/kuroitp1/public_html/hostworld/api/endpoints/GetPromotions.php on line 15
